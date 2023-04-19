@@ -1,4 +1,5 @@
-# workout_api
+# Workout API
+--
 
 ## What is this? 
 
@@ -13,7 +14,7 @@ User -> Workout -> []exercises
 The workouts created by one user will be added to that users Workouts, which they will 
 be able to pull up with a unique ID. 
 
---
+------
 ### Calls
 
 Users:
@@ -28,13 +29,17 @@ I will include a script that if you `./dependencies.sh` you will automatically i
 Check `scripts` for that script.
 
 Mongodb
+
 `go get go.mongodb.org/mongo-driver/mongo`
 
 Go Fiber
+
 `go get github.com/gofiber/fiber/v2`
 
 Bcrypt
+
 `go get golang.org/x/crypto/bcrypt`
 
 JWT 
+
 `go get github.com/golang-jwt/jwt/v5`
