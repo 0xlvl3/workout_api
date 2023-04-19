@@ -1,2 +1,3 @@
 bin
-db_info.go
+db/db.go
+
