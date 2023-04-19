@@ -27,7 +27,7 @@ Excerises:
 ## Dependencies 
 I will include a script that if you `./dependencies.sh` you will automatically install dependencies.
 Check `scripts` for that script.
-------
+
 
 ***MongoDB***
 
