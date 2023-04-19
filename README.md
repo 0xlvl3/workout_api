@@ -1,5 +1,5 @@
 # Workout API
---
+
 
 ## What is this? 
 
@@ -27,19 +27,20 @@ Excerises:
 ## Dependencies 
 I will include a script that if you `./dependencies.sh` you will automatically install dependencies.
 Check `scripts` for that script.
+------
 
-Mongodb
+***MongoDB***
 
 `go get go.mongodb.org/mongo-driver/mongo`
 
-Go Fiber
+***Go Fiber***
 
 `go get github.com/gofiber/fiber/v2`
 
-Bcrypt
+***Bcrypt***
 
 `go get golang.org/x/crypto/bcrypt`
 
-JWT 
+***JWT***
 
 `go get github.com/golang-jwt/jwt/v5`
